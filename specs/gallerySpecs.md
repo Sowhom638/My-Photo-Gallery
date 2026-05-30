@@ -1,6 +1,8 @@
 Build a image gallery where the name "My Photo Gallery" will be at the top and center.
 
-There will four photos in one row and five photos in one column. Use free photos from unsplash, picsum and other free photo libraries. 
+There will four photos in one row and five photos in one column. Use free photos from unsplash, picsum and other free photo libraries.
+
+The images should be generated from 5 themes. Each photos will be 1600X1000 resolution. 
 
 Other than photos no extra buttons or anything will be there in the home page of the gallery
 
