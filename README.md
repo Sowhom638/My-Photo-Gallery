@@ -125,7 +125,7 @@ This project is open source and available under the MIT License.
 ### 👨‍ Author
 - Sowhom Ghosh
 - GitHub: [@Sowhom638](https://github.com/Sowhom638)
-- Email: [EMAIL_ADDRESS](ghoshsowhom638@gmail.com)
+- Email: ghoshsowhom638@gmail.com
 ### 🙏 Acknowledgments
 - Unsplash for beautiful free images
 - MDN Web Docs for documentation
